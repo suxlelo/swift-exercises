@@ -141,6 +141,7 @@ struct Pokemon {
     // https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Properties.html#//apple_ref/doc/uid/TP40014097-CH14-ID259
     // var effective_stats   : Stats {
     // }
+    //
 }
 
 struct Trainer {
